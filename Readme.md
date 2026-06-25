@@ -83,7 +83,7 @@ Users can dynamically filter data by:
 
 ---
 
-<img src = "Dashbaord2.png" title = Sales_Dashboard2 alt = "image2" >
+<img src = "Image/Dashbaord2.png" title = Sales_Dashboard2 alt = "image2" >
 
 ---
 
