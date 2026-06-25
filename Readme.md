@@ -79,7 +79,7 @@ Users can dynamically filter data by:
 
 ## 📷 Dashboard Preview
 
-<img src = "Dashboard1.png" title= Sales_Dashboard1 alt = "image1">
+<img src = "Image/Dashboard1.png" title= Sales_Dashboard1 alt = "image1">
 
 ---
 
