@@ -91,11 +91,17 @@ Users can dynamically filter data by:
 ```
 Sales-Dashboard/
 
-├── Sales_Dashboard.twbx
+├── Sales_Dashboard_Overview.twbx
 
-├── Sales_Data.csv
+├── DataSets
+    ├── Sales_Data.xls
+    ├──hexmaps.xlsx
 
-├── Dashboard_Screenshot.png
+├── Images
+    ├──Dashboard1.png
+    ├──Dashboard2.png
+
+├── background image
 
 └── README.md
 ```
